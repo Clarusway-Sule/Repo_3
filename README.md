@@ -2,7 +2,7 @@
 Bu yazıyı Hotfix branch ında ekledim
 <html>
 <head>
-    <title>http://www.yazilimkodlama.com/</title>
+    <title>http://CLARUSWAY/</title>
     <script type="text/javascript">
         document.write("<table border='3'><tr>");
         for (var x = 1; x <= 10; x++) {
