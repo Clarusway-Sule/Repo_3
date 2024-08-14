@@ -1,2 +1,24 @@
 # Repo_3
 Bu yazıyı Hotfix branch ında ekledim
+<html>
+<head>
+    <title>http://CLARUSWAY/</title>
+    <script type="text/javascript">
+        document.write("<table border='3'><tr>");
+        for (var x = 1; x <= 10; x++) {
+        document.write("<td>");
+            for (var i = 1; i <= 10; i++) {
+                document.write(x+"x" + i + "=" + x * i + "<br/>");
+            }
+            if(x==5)
+            {
+            document.write("</tr><tr>");
+            }
+            document.write("</td>");
+        }
+        document.write("</tr><table>");
+    </script>
+</head>
+<body>
+</body>
+</html>
